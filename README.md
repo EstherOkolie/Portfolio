@@ -24,7 +24,7 @@ I design clear, interactive dashboards and reports that communicate insights eff
 *A selection of projects that demonstrate my analytical approach and problem-solving skills.*
 
 ### Marketing Campaign Performance Analysis
-![image](1 esther okolie marketing campaign analysis.jpeg)
+![image](Screenshot 2025-05-12 191032.png)
 
 This project evaluates the effectiveness of a multi-channel marketing campaign using customer and campaign performance data. The analysis focuses on understanding which channels, customer segments, and campaign strategies generated the highest engagement and return on investment (ROI).
 
