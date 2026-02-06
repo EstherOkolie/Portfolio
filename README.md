@@ -1,79 +1,83 @@
-<!--Section 1: Introduce your self-->
+<!-- Section 1: Introduction -->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm **Esther Okolie** 👋, a data analyst and business intelligence enthusiast with a strong passion for transforming raw data into clear, actionable insights. I work across business domains such as sales, operations, finance, and customer experience, helping organizations make better, faster, and evidence-based decisions.
+
+I enjoy solving business problems with data, building intuitive dashboards, and communicating insights in a way that decision-makers can easily understand and act on.
 
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+<!-- Section 2: Value Proposition -->
+## THE VALUE I BRING
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a data analyst, I support organizations and individuals in leveraging data for strategic and operational excellence.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Analytics & Business Intelligence**
+I analyze complex datasets to uncover trends, patterns, and insights that support strategic decision-making, performance improvement, and growth.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Data Visualization & Reporting**
+I design clear, interactive dashboards and reports that communicate insights effectively to technical and non-technical stakeholders.
 
-
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
-
-*A glimpse of some of the projects I've been working on.*
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+**- ✅ Training & Knowledge Sharing**
+I provide practical guidance and mentorship for aspiring analysts, focusing on real-world projects, analytical thinking, and industry-relevant tools.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+<!-- Section 3: Portfolio Projects -->
+## MY PORTFOLIO
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+*A selection of projects that demonstrate my analytical approach and problem-solving skills.*
 
-![image](2 anietie etuk data analytics sales project.jpg)
+### Predictive Modeling & Hypothesis Testing (Titanic Dataset)
+![image](1 esther okolie data analytics project.jpeg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+This project applies predictive modeling and statistical hypothesis testing to understand the factors that influenced passenger survival during the Titanic disaster.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+---
 
-![image](3 anietie etuk data analytics agro project.jpg)
+### Sales Performance & Customer Analysis
+![image](2 esther okolie data analytics sales project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+An end-to-end analysis of sales and customer data to identify revenue drivers, customer behavior patterns, and opportunities for business growth.
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://www.linkedin.com)
+
+---
+
+### Agricultural Data Analysis & Insights
+![image](3 esther okolie data analytics agro project.jpg)
+
+This project explores agricultural data to uncover productivity trends, challenges, and data-driven recommendations for improved outcomes.
+
+<a href="Esther_Okolie_Data_Analytics_Report.pdf">Download the full report (PDF)</a>
 
 
+<!-- Section 4: Contact -->
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect and explore how data can create value.*
+
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:estherokolie@gmail.com">estherokolie@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 800-000-0000</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.io/estherokolie/cv.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://linkedin.com/in/estherokolie">Connect with me on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
