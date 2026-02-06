@@ -2,14 +2,13 @@
 ## ABOUT ME
 
 Hello! I'm **Esther Okolie** 👋, a data analyst and business intelligence enthusiast with a strong passion for transforming raw data into clear, actionable insights. I work across business domains such as sales, operations, finance, and customer experience, helping organizations make better, faster, and evidence-based decisions.
-
 I enjoy solving business problems with data, building intuitive dashboards, and communicating insights in a way that decision-makers can easily understand and act on.
 
 
 <!-- Section 2: Value Proposition -->
 ## THE VALUE I BRING
 
-*As a data analyst, I support organizations and individuals in leveraging data for strategic and operational excellence.*
+*As a data analyst, I support organizations in leveraging data for strategic and operational excellence.*
 
 **- ✅ Data Analytics & Business Intelligence**
 I analyze complex datasets to uncover trends, patterns, and insights that support strategic decision-making, performance improvement, and growth.
@@ -17,8 +16,6 @@ I analyze complex datasets to uncover trends, patterns, and insights that suppor
 **- ✅ Data Visualization & Reporting**
 I design clear, interactive dashboards and reports that communicate insights effectively to technical and non-technical stakeholders.
 
-**- ✅ Training & Knowledge Sharing**
-I provide practical guidance and mentorship for aspiring analysts, focusing on real-world projects, analytical thinking, and industry-relevant tools.
 
 
 <!-- Section 3: Portfolio Projects -->
@@ -26,30 +23,20 @@ I provide practical guidance and mentorship for aspiring analysts, focusing on r
 
 *A selection of projects that demonstrate my analytical approach and problem-solving skills.*
 
-### Predictive Modeling & Hypothesis Testing (Titanic Dataset)
-![image](1 esther okolie data analytics project.jpeg)
+### Marketing Campaign Performance Analysis
+![image](1 esther okolie marketing campaign analysis.jpeg)
 
-This project applies predictive modeling and statistical hypothesis testing to understand the factors that influenced passenger survival during the Titanic disaster.
+This project evaluates the effectiveness of a multi-channel marketing campaign using customer and campaign performance data. The analysis focuses on understanding which channels, customer segments, and campaign strategies generated the highest engagement and return on investment (ROI).
+
+Key analytical areas include:
+- Campaign reach, conversion rates, and customer acquisition cost (CAC)
+- Performance comparison across channels (email, social media, paid ads)
+- Customer segmentation based on response behavior
+- Identification of high-performing campaigns and underperforming spend
+
+The insights from this analysis support data-driven decisions on budget allocation, campaign optimization, and targeting strategies to improve future marketing outcomes.
 
 [Read More](https://www.linkedin.com)
-
----
-
-### Sales Performance & Customer Analysis
-![image](2 esther okolie data analytics sales project.jpg)
-
-An end-to-end analysis of sales and customer data to identify revenue drivers, customer behavior patterns, and opportunities for business growth.
-
-[Read More](https://www.linkedin.com)
-
----
-
-### Agricultural Data Analysis & Insights
-![image](3 esther okolie data analytics agro project.jpg)
-
-This project explores agricultural data to uncover productivity trends, challenges, and data-driven recommendations for improved outcomes.
-
-<a href="Esther_Okolie_Data_Analytics_Report.pdf">Download the full report (PDF)</a>
 
 
 <!-- Section 4: Contact -->
