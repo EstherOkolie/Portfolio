@@ -24,7 +24,7 @@ I design clear, interactive dashboards and reports that communicate insights eff
 *A selection of projects that demonstrate my analytical approach and problem-solving skills.*
 
 ### Fashion Retail Sales Analysis
-![image](Screenshot 2025-05-12 191032.png)
+![image](Fashion store scrht.png)
 
 This project analyzes sales performance for a multi-brand fashion retail store using transactional order and product data. The goal is to identify key revenue drivers, demand patterns across brands and categories, and assess the impact of discounting on pricing efficiency and profitability.
 
