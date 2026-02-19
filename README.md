@@ -57,7 +57,7 @@ The insights from this analysis support data-driven decisions on budget allocati
 [Read More](https://www.linkedin.com)
 
 ### Parche & Possey Paper Sales Analysis ( Microsoft SQL Server)
-![image](Screenshot 2025-05-12 191032.png)
+![image](parche and possey.jpg)
 
 This project analyzes Parche & Possey database, a paper-selling company, to answer common business questions about customers (accounts), orders, pricing, sales reps, regions, and channel performance.
 
