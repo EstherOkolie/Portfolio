@@ -39,7 +39,7 @@ Comparison of high-volume versus high-revenue brands to uncover pricing and dema
 Identification of discount-heavy categories with potential margin risk
 
 The dashboard delivers actionable insights to support brand portfolio optimization, pricing strategy, and discount management.
-[Read More](Fashion_Sales_Analysis_Portfolio.pdf)
+[Read more](Fashion_Sales_Analysis_Portfolio.pdf)
 
 ### Marketing Campaign Analysis
 ![image](Screenshot 2025-05-12 191032.png)
