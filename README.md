@@ -58,7 +58,7 @@ Key analytical areas include:
 
 The insights from this analysis support data-driven decisions on budget allocation, campaign optimization, and targeting strategies to improve future marketing outcomes.
 
-[Read More](https://www.linkedin.com)
+[Read More](Marketing_Campaign_analysis_Presentation.pdf)
 
 ### Parche & Possey Paper Sales Analysis ( Microsoft SQL Server)
 ![image](parche and possey.jpg)
