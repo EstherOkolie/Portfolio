@@ -50,8 +50,8 @@ The dashboard delivers actionable insights to support brand portfolio optimizati
 This project evaluates the effectiveness of a multi-channel marketing campaign using customer and campaign performance data. The analysis focuses on understanding which channels, customer segments, and campaign strategies generated the highest engagement and return on investment (ROI).
 
 Key analytical areas include:
-- Campaign reach, conversion rates, and customer acquisition cost (CAC)
-- Performance comparison across channels (email, social media, paid ads)
+- Campaign reach, conversion rates, and retention rate
+- Performance comparison across channels (email, social media, influencers, push)
 - Customer segmentation based on response behavior
 - Identification of high-performing campaigns and underperforming spend
 
