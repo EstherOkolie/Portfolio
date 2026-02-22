@@ -45,7 +45,7 @@ The dashboard delivers actionable insights to support brand portfolio optimizati
 [Read more](Fashion_Sales_Analysis_Portfolio.pdf)
 
 ### Marketing Campaign Analysis
-![image](marketing campaign analysis screenshot.png)
+![image](marketing campaign screenshot.png)
 
 This project evaluates the effectiveness of a multi-channel marketing campaign using customer and campaign performance data. The analysis focuses on understanding which channels, customer segments, and campaign strategies generated the highest engagement and return on investment (ROI).
 
