@@ -7,7 +7,7 @@ Not just following tutorials. Building real projects. Analyzing messy datasets. 
 When I analyzed fashion retail sales data, I didn't just build a dashboard showing which brands sold the most. I compared high-volume brands against high-revenue brands and found something more valuable: some brands were moving a lot of product but generating thin margins because of aggressive discounting. That's the kind of insight that changes pricing strategy, not just updates a report.
 That's how I approach data analytics and business intelligence work - I don't stop at the surface numbers. I dig into what's actually driving performance, what's being missed, and what decisions the data should inform.
 
-I work primarily with SQL for data extraction and querying, Power BI for dashboard design and visualization, Excel for analysis and modeling, and Python for data cleaning and transformation. But tools are just tools. What matters is knowing which questions to ask and how to structure analysis that actually supports business decisions.
+I work primarily with SQL for data extraction and querying, Excel and Power BI modeling, analysis and visualization. But tools are just tools. What matters is knowing which questions to ask and how to structure analysis that actually supports business decisions.
 
 Before transitioning into analytics, I spent two years doing data entry and validation at JMG Limited in Lagos. It wasn't glamorous work, but it taught me something critical: garbage in, garbage out. Data quality matters. Accuracy matters. That foundation shapes every analytical project I touch now.
 
@@ -41,7 +41,8 @@ Comparison of high-volume versus high-revenue brands to uncover pricing and dema
 
 Identification of discount-heavy categories with potential margin risk
 
-The dashboard delivers actionable insights to support brand portfolio optimization, pricing strategy, and discount management.
+The dashboard delivers actionable insights to support brand portfolio optimization, pricing strategy, and discount management.  
+
 [Read more](Fashion_Sales_Analysis_Portfolio.pdf)
 
 ### Marketing Campaign Analysis
