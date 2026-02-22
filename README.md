@@ -1,20 +1,23 @@
 <!-- Section 1: Introduction -->
 ## ABOUT ME
 
-Hello! I'm **Esther Okolie** 👋, a data analyst and business intelligence enthusiast with a strong passion for transforming raw data into clear, actionable insights. I work across business domains such as sales, operations, finance, and customer experience, helping organizations make better, faster, and evidence-based decisions.
-I enjoy solving business problems with data, building intuitive dashboards, and communicating insights in a way that decision-makers can easily understand and act on.
+Hello! I'm **Esther Okolie** 👋, I have spent the past four years learning data analysis the hard way - by actually doing it.
+Not just following tutorials. Building real projects. Analyzing messy datasets. Asking questions that don't have obvious answers.
 
+When I analyzed fashion retail sales data, I didn't just build a dashboard showing which brands sold the most. I compared high-volume brands against high-revenue brands and found something more valuable: some brands were moving a lot of product but generating thin margins because of aggressive discounting. That's the kind of insight that changes pricing strategy, not just updates a report.
+That's how I approach data analytics and business intelligence work - I don't stop at the surface numbers. I dig into what's actually driving performance, what's being missed, and what decisions the data should inform.
 
-<!-- Section 2: Value Proposition -->
-## THE VALUE I BRING
+I work primarily with SQL for data extraction and querying, Power BI for dashboard design and visualization, Excel for analysis and modeling, and Python for data cleaning and transformation. But tools are just tools. What matters is knowing which questions to ask and how to structure analysis that actually supports business decisions.
 
-*As a data analyst, I support organizations in leveraging data for strategic and operational excellence.*
+Before transitioning into analytics, I spent two years doing data entry and validation at JMG Limited in Lagos. It wasn't glamorous work, but it taught me something critical: garbage in, garbage out. Data quality matters. Accuracy matters. That foundation shapes every analytical project I touch now.
 
-**- ✅ Data Analytics & Business Intelligence**
-I analyze complex datasets to uncover trends, patterns, and insights that support strategic decision-making, performance improvement, and growth.
+I have a Bachelor's degree from the University of Port Harcourt and a Data Analysis Diploma from TechOrigin Technology Development. I'm certified in SQL and Python for Data Analysis.
 
-**- ✅ Data Visualization & Reporting**
-I design clear, interactive dashboards and reports that communicate insights effectively to technical and non-technical stakeholders.
+Right now, I'm working on projects in retail analytics, marketing campaign analysis, and sales performance reporting - all of which you can explore in my portfolio. Each project demonstrates end-to-end analytical work: data cleaning, exploratory analysis, data modeling, visualization, and communicating findings clearly.
+
+What I'm looking for: a data analyst or business intelligence analyst role where I can apply this combination of technical skills, business thinking, and communication to help organizations make smarter, faster, evidence-based decisions.
+
+If you need someone who can clean messy data, build dashboards that answer real questions, write SQL queries that extract the right information, and explain findings to stakeholders who don't live in spreadsheets - let's talk.
 
 
 
