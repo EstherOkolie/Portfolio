@@ -55,7 +55,7 @@ Key analytical areas include:
 - Customer segmentation based on response behavior
 - Identification of high-performing campaigns and underperforming spend
 
-The insights from this analysis support data-driven decisions on budget allocation, campaign optimization, and targeting strategies to improve future marketing outcomes.
+The insights from this analysis support data-driven decisions on budget allocation, campaign optimization, and targeting strategies to improve future marketing outcomes.  
 [Read More](Marketing_Campaign_analysis_Presentation.pdf)
 
 ### Parche & Possey Paper Sales Analysis ( Microsoft SQL Server)
