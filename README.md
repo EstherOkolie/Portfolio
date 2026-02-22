@@ -11,7 +11,7 @@ I work primarily with SQL for data extraction and querying, Excel and Power BI m
 
 Before transitioning into analytics, I spent two years doing data entry and validation at JMG Limited in Lagos. It wasn't glamorous work, but it taught me something critical: garbage in, garbage out. Data quality matters. Accuracy matters. That foundation shapes every analytical project I touch now.
 
-I have a Bachelor's degree from the University of Port Harcourt and a Data Analysis Diploma from TechOrigin Technology Development. I'm certified in SQL and Python for Data Analysis.
+I have a Bachelor's degree from the University of Port Harcourt and a Data Analysis Diploma from TechOrigin Technology Development. 
 
 Right now, I'm working on projects in retail analytics, marketing campaign analysis, and sales performance reporting - all of which you can explore in my portfolio. Each project demonstrates end-to-end analytical work: data cleaning, exploratory analysis, data modeling, visualization, and communicating findings clearly.
 
@@ -42,7 +42,6 @@ Comparison of high-volume versus high-revenue brands to uncover pricing and dema
 Identification of discount-heavy categories with potential margin risk
 
 The dashboard delivers actionable insights to support brand portfolio optimization, pricing strategy, and discount management.  
-
 [Read more](Fashion_Sales_Analysis_Portfolio.pdf)
 
 ### Marketing Campaign Analysis
@@ -57,7 +56,6 @@ Key analytical areas include:
 - Identification of high-performing campaigns and underperforming spend
 
 The insights from this analysis support data-driven decisions on budget allocation, campaign optimization, and targeting strategies to improve future marketing outcomes.
-
 [Read More](Marketing_Campaign_analysis_Presentation.pdf)
 
 ### Parche & Possey Paper Sales Analysis ( Microsoft SQL Server)
@@ -75,7 +73,6 @@ Time-based demand patterns (weekday/hour/month-year)
 Order segmentation (high/medium/small)  
 Top accounts by order volume  
 Sales rep workload and performance by region  
-
 [See the analysis file](Parche and possey analysis.pdf)
 
 
@@ -89,15 +86,15 @@ Sales rep workload and performance by region
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:estherokolie@gmail.com">estherokolie@gmail.com</a></td>
+      <td><a href="mailto:estherokolie@outlook.com">estherokolie@outlook.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 800-000-0000</td>
+      <td>(+1) 587-777-5503</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>Nigeria</td>
+      <td>Canada</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -105,7 +102,7 @@ Sales rep workload and performance by region
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/estherokolie">Connect with me on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/esther-okolie-b88381368">Connect with me on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
