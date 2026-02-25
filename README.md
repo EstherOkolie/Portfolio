@@ -86,7 +86,7 @@ Sales rep workload and performance by region
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:estherokolie12@outlook.com">estherokolie@outlook.com</a></td>
+      <td><a href="mailto:estherokolie12@outlook.com">estherokolie12@outlook.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
