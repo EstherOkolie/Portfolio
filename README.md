@@ -86,7 +86,7 @@ Sales rep workload and performance by region
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:estherokolie@outlook.com">estherokolie@outlook.com</a></td>
+      <td><a href="mailto:estherokolie12@outlook.com">estherokolie@outlook.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -98,7 +98,7 @@ Sales rep workload and performance by region
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.io/estherokolie/cv.pdf">Download my CV</a></td>
+      <td><a href="https://github.io/Esther Okolie Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
