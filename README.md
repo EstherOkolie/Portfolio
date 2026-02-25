@@ -98,7 +98,7 @@ Sales rep workload and performance by region
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.io/Esther Okolie Resume.pdf">Download my CV</a></td>
+      <td><a href="Esther Okolie Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
